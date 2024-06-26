@@ -1,1 +1,1 @@
-# whitesource-config-
+WhiteSource Global Repo Configuration

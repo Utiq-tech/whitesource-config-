@@ -1,0 +1,10 @@
+{
+  "repositories": [
+    {
+      "fullName": "Utiq-tech/UTIQ-Mobile-SDK",
+      "branchName": "main",
+      "scanType": "sast",
+      "uploadScannerLogs": true
+    }
+  ]
+}
